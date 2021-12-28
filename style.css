@@ -1,0 +1,26 @@
+body
+{
+    background-color: rgb(102, 175, 204);
+    color: rgb(2, 1, 0);
+    font-size: 30px;
+}
+
+#container
+{
+  position: fixed;
+  margin-left: 300px;
+  
+    
+}
+td
+{
+    padding: 5px;
+}
+
+#buttons
+{
+    margin-left: 50%;
+}
+
+
+
